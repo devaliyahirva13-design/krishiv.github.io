@@ -39,6 +39,10 @@ h1 {
     padding: 12px 30px;
     font-size: 18px;
     background-color: #20b89f;
+
+
+
+nav { display: flex; gap: 20px; } nav a { text-decoration: none; padding: 10px 20px; background-color: #333; color: white; border-radius: 5px; }
     color: white;
     border: none;
     border-radius: 8px;
