@@ -33,3 +33,14 @@ h1 {
         transform: translateY(0);
     }
 }
+.my-button {
+    display: block;
+    margin: 30px auto;
+    padding: 12px 30px;
+    font-size: 18px;
+    background-color: #20b89f;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
